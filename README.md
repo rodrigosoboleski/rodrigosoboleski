@@ -1,13 +1,10 @@
 # 👋 Olá, eu sou Rodrigo
----
 
 ## 🚀 Sobre mim
 Sou um iniciante no front-end. Atualmente estou focado em aprimorar minhas habilidades em frameworks modernos e técnicas avançadas de desenvolvimento web.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigosoboleski&show_icons=true&theme=radical" alt="Minhas Estatísticas no GitHub">
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosoboleski&layout=compact&theme=radical" alt="Linguagens mais usadas">
 </p>
 
@@ -19,5 +16,4 @@ Sou um iniciante no front-end. Atualmente estou focado em aprimorar minhas habil
   <a href="mailto:rodrigosoboleskki@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
----
 Obrigado por visitar meu perfil!
