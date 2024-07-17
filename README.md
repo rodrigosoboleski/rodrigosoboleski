@@ -12,9 +12,26 @@ Sou um iniciante no front-end. Atualmente estou focado em aprimorar minhas habil
 
 ## 🛠️ Áreas de Conhecimento e Ferramentas
 
-  - ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-  - ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github) ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  - ![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
+---
+
+## 🛠️ Áreas de Conhecimento e Ferramentas
+
+- **Linguagens de Programação:**
+  - ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+- **Frameworks e Bibliotecas:**
+  - ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+- **Ferramentas de Desenvolvimento:**
+  - ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
+- **Design e Prototipagem:**
+  - ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+- **Outros:**
+  - ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=FFFFFF) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+---
 
 ---
 
