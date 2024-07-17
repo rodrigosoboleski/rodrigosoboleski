@@ -1,8 +1,17 @@
 ## Hi there 👋
 
 
-[![Rodrigo's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=rodrigosoboleski&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+### Detalhes 
 
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=rodrigosoboleski&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
+### Projetos
+
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=rodrigosoboleski&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=rodrigosoboleski&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
 
 <!--
 **rodrigosoboleski/rodrigosoboleski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
