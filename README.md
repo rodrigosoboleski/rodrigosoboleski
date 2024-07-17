@@ -1,29 +1,33 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome] 👋
 
+### Sobre mim
+Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário incríveis e responsivas. Tenho experiência com HTML, CSS e JavaScript, e atualmente estou me aprofundando em frameworks como React e Vue.js.
 
-### Detalhes 
+### 🚀 Minhas Habilidades
+- **Linguagens:** HTML, CSS, JavaScript
+- **Frameworks e Bibliotecas:** React, Vue.js
+- **Ferramentas:** Git, GitHub, VSCode, Figma
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=rodrigosoboleski&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+### 🌱 Atualmente
+- Estou trabalhando em um projeto de um site premium para um estúdio de carro, focando em uma experiência de usuário sofisticada e minimalista.
+- Estudando novas técnicas de desenvolvimento front-end e aprimorando minhas habilidades em design de interfaces.
 
-### Projetos
+### 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- [Twitter](https://twitter.com/seu-usuario)
+- [Email](mailto:seuemail@exemplo.com)
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=rodrigosoboleski&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+### 📈 Minhas Estatísticas no GitHub
+![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
 
-### Linguagens utilizadas
+### 📚 Meus Repositórios
+- [Projeto 1](https://github.com/seu-usuario/projeto1) - Descrição do projeto 1.
+- [Projeto 2](https://github.com/seu-usuario/projeto2) - Descrição do projeto 2.
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=rodrigosoboleski&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+### 📄 Certificados
+- [Certificado 1](link-para-o-certificado)
+- [Certificado 2](link-para-o-certificado)
 
-<!--
-**rodrigosoboleski/rodrigosoboleski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma dúvida ou proposta de colaboração.
