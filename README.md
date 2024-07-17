@@ -1,32 +1,49 @@
-# Olá, eu sou [Seu Nome] 👋
+# 👋 Olá, eu sou [Seu Nome]
 
-### Sobre mim
-Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário incríveis e responsivas. Tenho experiência com HTML, CSS e JavaScript, e atualmente estou me aprofundando em frameworks como React e Vue.js.
+[![GitHub followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/seu-usuario) [![Linkedin: seu-usuario](https://img.shields.io/badge/-seu-usuario-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario/)](https://www.linkedin.com/in/seu-usuario/)
 
-### 🚀 Minhas Habilidades
-- **Linguagens:** HTML, CSS, JavaScript
-- **Frameworks e Bibliotecas:** React, Vue.js
-- **Ferramentas:** Git, GitHub, VSCode, Figma
+---
 
-### 🌱 Atualmente
-- Estou trabalhando em um projeto de um site premium para um estúdio de carro, focando em uma experiência de usuário sofisticada e minimalista.
-- Estudando novas técnicas de desenvolvimento front-end e aprimorando minhas habilidades em design de interfaces.
+## 🚀 Sobre mim
+Sou um desenvolvedor front-end com paixão por criar interfaces de usuário incríveis e responsivas. Atualmente estou focado em aprimorar minhas habilidades em frameworks modernos e técnicas avançadas de desenvolvimento web.
 
-### 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [Twitter](https://twitter.com/seu-usuario)
-- [Email](mailto:seuemail@exemplo.com)
+- 🎨 Habilidades: `HTML` `CSS` `JavaScript` `React` `Vue.js` `Figma`
+- 💼 Atualmente trabalhando em: [EuroPrime](link-para-o-projeto)
+- 🌱 Aprendendo: `Next.js` `TypeScript`
 
-### 📈 Minhas Estatísticas no GitHub
-![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+---
 
-### 📚 Meus Repositórios
-- [Projeto 1](https://github.com/seu-usuario/projeto1) - Descrição do projeto 1.
-- [Projeto 2](https://github.com/seu-usuario/projeto2) - Descrição do projeto 2.
+## 📊 Minhas Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Minhas Estatísticas no GitHub">
+</p>
 
-### 📄 Certificados
-- [Certificado 1](link-para-o-certificado)
-- [Certificado 2](link-para-o-certificado)
+---
+
+## 🌐 Conecte-se comigo
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/seu-usuario"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🛠️ Projetos em Destaque
+- [![LeiaMe](https://img.shields.io/badge/GitHub-Projeto%201-6e5494?style=flat-square&logo=github&logoColor=white)](https://github.com/seu-usuario/projeto1) - Descrição do projeto 1.
+- [![LeiaMe](https://img.shields.io/badge/GitHub-Projeto%202-6e5494?style=flat-square&logo=github&logoColor=white)](https://github.com/seu-usuario/projeto2) - Descrição do projeto 2.
+
+---
+
+## 🏆 Certificados
+- [![Certificado 1](https://img.shields.io/badge/-Certificado%201-4CAF50?style=for-the-badge)](link-para-o-certificado)
+- [![Certificado 2](https://img.shields.io/badge/-Certificado%202-4CAF50?style=for-the-badge)](link-para-o-certificado)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=seu-usuario" alt="Contador de Visitas">
+</p>
 
 ---
 
