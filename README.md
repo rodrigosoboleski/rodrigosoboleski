@@ -8,7 +8,7 @@ Sou um iniciante no front-end. Atualmente estou focado em aprimorar minhas habil
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigosoboleski&show_icons=true&theme=radical" alt="Minhas Estatísticas no GitHub">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosoboleski&layout=compact&theme=radical" alt="Linguagens mais usadas">
 </p>
 
 ---
