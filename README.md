@@ -4,8 +4,8 @@
 Sou um iniciante no front-end. Atualmente estou focado em aprimorar minhas habilidades em frameworks modernos e técnicas avançadas de desenvolvimento web.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigosoboleski&show_icons=true&theme=radical" alt="Minhas Estatísticas no GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosoboleski&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigosoboleski&show_icons=true&theme=radical" alt="Minhas Estatísticas no GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosoboleski&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
 ---
