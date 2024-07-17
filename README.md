@@ -3,10 +3,11 @@
 ## 🚀 Sobre mim
 Sou um iniciante no front-end. Atualmente estou focado em aprimorar minhas habilidades em frameworks modernos e técnicas avançadas de desenvolvimento web.
 
-<p align="center" style="font-family: Arial, sans-serif; color: #ffffff;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigosoboleski&show_icons=true&theme=graywhite&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="Minhas Estatísticas no GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosoboleski&layout=compact&theme=graywhite&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="Linguagens mais usadas"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigosoboleski&show_icons=true&theme=radical" alt="Minhas Estatísticas no GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosoboleski&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
+
 
 ---
 
