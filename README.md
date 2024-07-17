@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=rodrigosoboleski&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
+
 <!--
 **rodrigosoboleski/rodrigosoboleski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
