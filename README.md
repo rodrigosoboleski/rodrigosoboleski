@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=rodrigosoboleski&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Rodrigo's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=rodrigosoboleski&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 
 <!--
