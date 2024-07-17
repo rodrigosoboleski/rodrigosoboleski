@@ -8,11 +8,8 @@ Sou um iniciante no front-end. Atualmente estou focado em aprimorar minhas habil
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosoboleski&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
----
 <h2>🛠️ Áreas de Conhecimento e Ferramentas</h2>
-
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
----
 
 ## 🌐 Conecte-se comigo
 <p align="center">
