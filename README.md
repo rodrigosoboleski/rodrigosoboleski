@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Rodrigo Augusto Soboleski
+# 👋 Olá, me chamo Rodrigo A. Soboleski
 
 ## 🚀 Sobre mim
 Sou um iniciante no front-end. Atualmente estou focado em aprimorar minhas habilidades em frameworks modernos e técnicas avançadas de desenvolvimento web.
