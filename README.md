@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 <p align="center">
-    Me chamo Rodrigo Augusto Soboleski, tenho 21 anos e sou de Rondônia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia, estou terminando meus estudos front-end para dar inicio ás tecnologias de back-end para me tornar um desenvolvedor full-stack no futuro.
+   Me chamo Rodrigo Augusto Soboleski, tenho 21 anos e sou de Rondônia. Estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia. Atualmente, estou finalizando meus estudos em front-end e me preparando para explorar tecnologias de back-end, com o objetivo de me tornar um desenvolvedor full-stack no futuro.
 </p>
 <p align="center">
     <p align="center">
