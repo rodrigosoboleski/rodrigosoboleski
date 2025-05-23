@@ -1,6 +1,6 @@
 # Rodrigo A. Soboleski 💻
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor FullStack`**
 
 <p align="center">
     Me chamo Rodrigo Augusto Soboleski, tenho 21 anos e sou de Rondônia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia, estou terminando meus estudos front-end para dar inicio ás tecnologias de back-end para me tornar um desenvolvedor full-stack no futuro.
@@ -10,11 +10,11 @@
   <a href="https://www.linkedin.com/in/rodrigo-augusto-soboleski-137ba3244/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:rodrigosoboleskki@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
-</p>
+
 <br>
 
-### 💻 Linguagens e Tecnologias
-<br>
+<h3 align="center">Linguagens e Tecnologias</h3>
+
 <p align="center">
   <img 
     alt="HTML"
@@ -80,14 +80,14 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 </p>
 
----
+<br>
 
-### 📊 Estatísticas
+<h3 align="center">Estatísticas</h3>
 
 <p align="center">
 <img 
     alt="GitHub Stats" 
-    height="180" 
+    height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=rodrigosoboleski&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
