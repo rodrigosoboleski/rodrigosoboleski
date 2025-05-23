@@ -82,7 +82,7 @@
     title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-white.svg"
 />
    <img 
     alt="VSCode" 
@@ -96,7 +96,8 @@
     title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
 </p>
 <img 
     alt="Notion" 
