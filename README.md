@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- 💡 *Gosto de criar código limpo e bem documentado, sempre buscando a melhor experiência para o usuário!*
+ 💡Gosto de criar código limpo e bem documentado, sempre buscando a melhor experiência para o usuário!
 </p>
 
 <h3 align="center">📲Entre em contato comigo</h3>
