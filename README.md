@@ -5,10 +5,10 @@
 <p align="center">
    Me chamo Rodrigo Augusto Soboleski e tenho 21 anos. Estou cursando Análise e Desenvolvimento de Sistemas, com foco na criação de soluções tecnológicas organizadas e eficientes. Atualmente, finalizo meus estudos em front-end enquanto me preparo para mergulhar em tecnologias de back-end. Meu objetivo é me tornar um desenvolvedor full-stack  para construir projetos robustos e escaláveis.
 </p>
-🔭 **Trabalhando em**: Projetos front-end com interfaces intuitivas e organizadas.  
-🌱 **Aprendendo**: Tecnologias de back-end, como Node.js e bancos de dados.  
 
-💡 *Gosto de criar código limpo e bem documentado, sempre buscando a melhor experiência para o usuário!*
+<p align="center">
+ 💡 *Gosto de criar código limpo e bem documentado, sempre buscando a melhor experiência para o usuário!*
+</p>
 
 <h3 align="center">📲Entre em contato comigo</h3>
 <p align="center">
