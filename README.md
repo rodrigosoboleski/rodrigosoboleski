@@ -1,6 +1,6 @@
 # Rodrigo A. Soboleski 💻
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
 <p align="center">
    Me chamo Rodrigo Augusto Soboleski, tenho 21 anos e sou de Rondônia. Estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia. Atualmente, estou finalizando meus estudos em front-end e me preparando para explorar tecnologias de back-end, com o objetivo de me tornar um desenvolvedor full-stack no futuro.
