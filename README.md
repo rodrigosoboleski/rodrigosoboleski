@@ -1,19 +1,24 @@
-# Rodrigo A. Soboleski 💻
+# 👋 Olá, me chamo Rodrigo A. Soboleski ✨
 
-**`Desenvolvedor Front-End`**
+**`💻Desenvolvedor Front-End`**
 
 <p align="center">
-   Me chamo Rodrigo Augusto Soboleski, tenho 21 anos e sou de Rondônia. Estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia. Atualmente, estou finalizando meus estudos em front-end e me preparando para explorar tecnologias de back-end, com o objetivo de me tornar um desenvolvedor full-stack no futuro.
+   Me chamo Rodrigo Augusto Soboleski e tenho 21 anos. Estou cursando Análise e Desenvolvimento de Sistemas, com foco na criação de soluções tecnológicas organizadas e eficientes. Atualmente, finalizo meus estudos em front-end enquanto me preparo para mergulhar em tecnologias de back-end. Meu objetivo é me tornar um desenvolvedor full-stack  para construir projetos robustos e escaláveis.
 </p>
+🔭 **Trabalhando em**: Projetos front-end com interfaces intuitivas e organizadas.  
+🌱 **Aprendendo**: Tecnologias de back-end, como Node.js e bancos de dados.  
+
+💡 *Gosto de criar código limpo e bem documentado, sempre buscando a melhor experiência para o usuário!*
+
+<h3 align="center">📲Entre em contato comigo</h3>
 <p align="center">
-    <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-augusto-soboleski-137ba3244/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:rodrigosoboleskki@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
 <br>
 
-<h3 align="center">Linguagens e Tecnologias</h3>
+<h3 align="center">📚Linguagens e Tecnologias</h3>
 
 <p align="center">
   <img 
