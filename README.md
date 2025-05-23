@@ -77,14 +77,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    alt="GithHub" 
-    title="GitHub"
-    width="30px" 
-    color="white"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
    <img 
     alt="VSCode" 
     title="VSCode"
